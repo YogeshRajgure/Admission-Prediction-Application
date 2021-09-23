@@ -5,7 +5,7 @@
 
 __I started this self motivated project to explore and implement ML algorithms (SVM), Flask with Python.__
 
-####Note :- 
+#### Note :- 
 Different colleges may have different criteria for admission (like some may require high GRE score, some may require low)
 In this project, We are avoiding such differences
 
@@ -19,13 +19,13 @@ In this project, We are avoiding such differences
 6. CGPA Score /10.0
 7. Internship - (Yes/No)
 
-##Goal - 
+## Goal - 
 Create an application where students can know the chances of their admission in college just by entering the exam score and other details.
 
-##Solution - 
+## Solution - 
 Create a regression model based on previous available data (SVM with Hyperparameters tuning in this case) and deploy model on GCP.
 
-##Result - 
+## Result - 
 We got the test r2 score of 0.7457 which is a decent score for predicting chances of selection in desired college.
 
 ## Get Started
@@ -33,4 +33,8 @@ We got the test r2 score of 0.7457 which is a decent score for predicting chance
 ### Pre-installation
 ```
 pip install -r requirements.txt
+```
+### Run project
+```
+main.py
 ```
