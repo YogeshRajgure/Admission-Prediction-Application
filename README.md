@@ -11,13 +11,13 @@ In this project, We are avoiding such differences
 
 ## Inputs for Predicting the chance of admission at college
 
-1. GRE Score /320
-2. TOEFL Score /120
-3. University Rating /5
-4. SOP Score /5
-5. LOR Score /5 
-6. CGPA Score /10.0
-7. Internship - (Yes/No)
+1. GRE Score            /320
+2. TOEFL Score          /120
+3. University Rating    /5
+4. SOP Score            /5
+5. LOR Score            /5 
+6. CGPA Score           /10.0
+7. Internship -         (Yes/No)
 
 ## Goal - 
 Create an application where students can know the chances of their admission in college just by entering the exam score and other details.
